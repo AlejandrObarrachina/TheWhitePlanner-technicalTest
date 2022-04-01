@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,300;0,400;0,500;1,100&display=swap");
+:root {
+    --main-font: "Work Sans", sans-serif;
+    --bg-color: #fefdf9;
+    animation: all 0.3s ease;
+}
