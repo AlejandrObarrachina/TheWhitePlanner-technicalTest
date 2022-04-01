@@ -1,4 +1,4 @@
-# button-component
+# The White Planner technical test
 
 ## Project setup
 ```
